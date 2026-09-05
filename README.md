@@ -235,16 +235,6 @@ The program will process the video and display the detected faces in real time.
 
 ---
 
-### 📸 Project Preview
-
-Add screenshots from the project here.
-
-![Original Frame](screenshots/original_frame.png)
-
-![Face Detection Result](screenshots/face_detection.png)
-
----
-
 ### 📊 Detection Process
 
 Stage| Operation
