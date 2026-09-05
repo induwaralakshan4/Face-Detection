@@ -1,14 +1,14 @@
-👤 Face Detection using OpenCV & Haar Cascade Classifier
+### 👤 Face Detection using OpenCV & Haar Cascade Classifier
 
 «A Computer Vision project that detects and highlights human faces in video frames using Python, OpenCV, and the Haar Cascade Classifier.»
 
-🎥 Project Demo
+### 🎥 Project Demo
 
 <!-- Upload your project video to GitHub and replace the URL below -->https://github.com/user-attachments/assets/a6d00886-52e4-4957-a53a-8813cf8ae94e
 
 ---
 
-📌 About the Project
+### 📌 About the Project
 
 Face Detection using OpenCV is a Computer Vision project developed using Python and OpenCV to detect and highlight human faces from video frames.
 
@@ -20,7 +20,7 @@ This project demonstrates the practical application of traditional Computer Visi
 
 ---
 
-🎯 Project Objectives
+### 🎯 Project Objectives
 
 - 👤 Detect human faces from video frames
 - 🎥 Process video in real time using OpenCV
@@ -33,7 +33,7 @@ This project demonstrates the practical application of traditional Computer Visi
 
 ---
 
-✨ Key Features
+### ✨ Key Features
 
 🎥 Frame-by-Frame Video Processing
 
@@ -45,7 +45,7 @@ This allows the detection algorithm to analyze each frame independently.
 
 ---
 
-📐 Frame Resizing
+### 📐 Frame Resizing
 
 To reduce processing requirements, each frame is resized to 50% of its original dimensions before face detection.
 
@@ -126,7 +126,7 @@ face_upscaled = cv2.resize(
 
 ---
 
-🔄 Computer Vision Pipeline
+### 🔄 Computer Vision Pipeline
 
           🎥 Input Video
                 │
@@ -161,7 +161,7 @@ face_upscaled = cv2.resize(
 
 ---
 
-🧠 How the Detection Works
+### 🧠 How the Detection Works
 
 The Haar Cascade approach follows a traditional Computer Vision pipeline:
 
@@ -183,7 +183,7 @@ The classifier evaluates image regions and identifies patterns that match the tr
 
 ---
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Technology| Purpose
 🐍 Python| Main programming language
@@ -193,7 +193,7 @@ Technology| Purpose
 
 ---
 
-🔑 OpenCV Functions Used
+### 🔑 OpenCV Functions Used
 
 Function| Purpose
 "cv2.VideoCapture()"| Read video frames
@@ -205,34 +205,11 @@ Function| Purpose
 
 ---
 
-📂 Project Structure
-
-Face-Detection/
-│
-├── 📁 input/
-│   └── sample_video.mp4
-│
-├── 📁 output/
-│   └── detected_faces.mp4
-│
-├── 📁 screenshots/
-│   ├── original_frame.png
-│   └── face_detection.png
-│
-├── 📄 face_detection.py
-├── 📄 haarcascade_frontalface_default.xml
-├── 📄 requirements.txt
-└── 📄 README.md
-
-«Update the file and folder names above according to your actual repository structure.»
-
----
-
-⚙️ Installation
+### ⚙️ Installation
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/Face-Detection.git
+git clone https://github.com/induwaralakshan4/Face-Detection
 
 2. Navigate to the Project Directory
 
@@ -248,7 +225,7 @@ pip install opencv-python
 
 ---
 
-▶️ Run the Project
+### ▶️ Run the Project
 
 Place the sample video in the appropriate input directory and run:
 
@@ -258,7 +235,7 @@ The program will process the video and display the detected faces in real time.
 
 ---
 
-📸 Project Preview
+### 📸 Project Preview
 
 Add screenshots from the project here.
 
@@ -268,7 +245,7 @@ Add screenshots from the project here.
 
 ---
 
-📊 Detection Process
+### 📊 Detection Process
 
 Stage| Operation
 01| Capture video
@@ -285,7 +262,7 @@ Stage| Operation
 
 ---
 
-🧠 What I Learned
+### 🧠 What I Learned
 
 This project strengthened my practical understanding of traditional Computer Vision and video processing.
 
@@ -304,7 +281,7 @@ Key learning outcomes:
 
 ---
 
-⚠️ Limitations
+### ⚠️ Limitations
 
 Haar Cascade face detection is a traditional Computer Vision approach and may not perform equally well in every environment.
 
@@ -322,7 +299,7 @@ For more robust applications, modern Deep Learning-based face detection methods 
 
 ---
 
-🔐 Privacy & Data Note
+### 🔐 Privacy & Data Note
 
 The videos used in this project are sample/demo videos intended only for testing and demonstrating the face detection functionality.
 
@@ -330,7 +307,7 @@ No personal or proprietary video footage was intentionally used as part of this 
 
 ---
 
-🚀 Future Improvements
+### 🚀 Future Improvements
 
 Possible future improvements include:
 
@@ -346,7 +323,7 @@ Possible future improvements include:
 
 ---
 
-🌍 Potential Applications
+### 🌍 Potential Applications
 
 The concepts explored in this project can contribute to applications such as:
 
@@ -361,7 +338,7 @@ The concepts explored in this project can contribute to applications such as:
 
 ---
 
-📌 Project Status
+### 📌 Project Status
 
 Status: 🟢 Completed — Initial Version
 
@@ -369,7 +346,7 @@ This project is part of my practical learning journey in Computer Vision, Image 
 
 ---
 
-👨‍💻 About
+### 👨‍💻 About
 
 I’m exploring Python, Computer Vision, Artificial Intelligence, and Machine Learning by building practical projects.
 
@@ -379,7 +356,7 @@ This project helped me develop a stronger understanding of how traditional Compu
 
 ---
 
-⭐ Support
+### ⭐ Support
 
 If you find this project interesting, consider giving the repository a ⭐ Star.
 
@@ -387,6 +364,6 @@ Your support motivates me to continue learning and building more Computer Vision
 
 ---
 
-🔖 Topics
+### 🔖 Topics
 
 "Python" "OpenCV" "Haar Cascade" "Face Detection" "Computer Vision" "Image Processing" "Object Detection" "Video Processing" "Artificial Intelligence" "Machine Learning"
