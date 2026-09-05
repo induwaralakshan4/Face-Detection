@@ -1,5 +1,7 @@
 ### 👤 Face Detection using OpenCV & Haar Cascade Classifier
 
+![Screenshot_20260905_143305_Video Player.jpg](https://github.com/user-attachments/assets/12682db6-19db-4100-a3d6-74dcb2c75848)
+
 «A Computer Vision project that detects and highlights human faces in video frames using Python, OpenCV, and the Haar Cascade Classifier.»
 
 ### 🎥 Project Demo
